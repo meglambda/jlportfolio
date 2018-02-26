@@ -1,0 +1,44 @@
+#intro {
+	background-color: coral;
+}
+#middle {
+	background-color: red;
+	height: 700px
+}
+.learn-more {
+	bottom: 2.5%;
+	display: inline-block;
+	font-size: 1.3rem;
+	left:43%;
+	padding: 20px;
+	position: absolute;
+	white-space: nowrap;
+	z-index:  2;
+	text-decoration: none;
+	text-align: center;
+}
+
+
+#gallery {
+	background-color: white;
+	height: 700px
+
+}
+#skills {
+	background-color: black;
+	height: 700px;
+}
+#help {
+	background-color: help;
+	height: 700px
+
+}
+#footer {
+	background-color: grey;
+}
+
+body, html {
+    height: 100%;
+}
+
+/* The hero image */
